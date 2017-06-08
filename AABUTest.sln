@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26228.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "AABUTest", "AABUTest\AABUTest.sqlproj", "{41071EE0-ACA8-4438-BBAC-29F2A521DFC5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContosoSite", "ContosoSite\ContosoSite.csproj", "{B2566A29-D4FA-4EF5-87FB-3BC5A82666C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,10 @@ Global
 		{41071EE0-ACA8-4438-BBAC-29F2A521DFC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{41071EE0-ACA8-4438-BBAC-29F2A521DFC5}.Release|Any CPU.Build.0 = Release|Any CPU
 		{41071EE0-ACA8-4438-BBAC-29F2A521DFC5}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B2566A29-D4FA-4EF5-87FB-3BC5A82666C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2566A29-D4FA-4EF5-87FB-3BC5A82666C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2566A29-D4FA-4EF5-87FB-3BC5A82666C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2566A29-D4FA-4EF5-87FB-3BC5A82666C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
